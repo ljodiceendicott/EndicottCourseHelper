@@ -1,0 +1,20 @@
+The idea of this program is to combine the two different json files that we have into one json file that contains all of the information needed
+
+Course.java:
+	-This file is the Class File for a Course 
+	-It contains the information that is needed from the course and that is found in the genEdcourse Json file
+
+JsonReadIn.java:
+	-This file is what actuall combines the two files together
+	Steps in the code:
+1.Creates a ArrayList that picks up all of the information-> This is called courselist in the code
+2.reads in all of the General Education Electives
+3.read in all of the courses and compares them to see if they are in the arraylist already, if they are not then they are added to the Arraylist
+4. In order to print out the Json properly, you convert each item into json and add a comma to the end
+5.it prints out the entire string of all of the json, which can be copied from the  output and have to remove the last comma
+6.in order to have it work properly you need to add the proper header so that the array will be read properly from the javascript on the website :) 
+
+JsonCourseInfoConverger Folder:
+	-this is the file system that contains all of the files if you were to use netbeans
+	-put the json files that you want to insert going through the path: src>main>resourses
+	-make sure to change the name of the filenames before you run the program

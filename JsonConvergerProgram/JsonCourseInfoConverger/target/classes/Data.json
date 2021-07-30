@@ -1,0 +1,2175 @@
+{"sessions":[ {"session_name":"FA  2021",  "classes":[
+  {
+    "name":"ARA101 Elementary Arabic I",
+    "genEdReq" :"World Cultures",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : true
+},
+{
+"name":"ARA102 Elementary Arabic II",
+    "genEdReq" :"World Cultures",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : true
+},
+{
+  "name":"ART100 Art & World Cultures",
+  "genEdReq" : "World Cultures",
+  "isWriting" : false,
+  "isDEI" : false,
+  "isPerformance" :false,
+  "isLanguage" : false
+},
+{
+  "name": "ART101 Visual Art & Cultural Values I",
+  "genEdReq" : "Aesthetic Awareness",
+  "isWriting" : false,
+  "isDEI" : false,
+  "isPerformance" : false,
+  "isLanguage" : false
+},
+{
+  "name" :"ART102 Visual Art & Cultural Values II",
+  "genEdReq" : "Aesthetic Awareness",
+  "isWriting" : false,
+  "isDEI" : false,
+  "isPerformance" : false,
+  "isLanguage" : false
+},
+{
+"name":"ART105 Drawing & Composition I",
+"genEdReq" : "Aesthetic Awareness",
+"isWriting" : false,
+"isDEI" : false,
+"isPerformance" :false ,
+"isLanguage" : false
+},
+{
+  "name":"ART121 Ceramics I",
+  "genEdReq" : "Aesthetic Awareness",
+  "isWriting" : false,
+  "isDEI" : false,
+  "isPerformance" : false,
+  "isLanguage" : false
+} ,
+{
+  "name": "ART125 Beginning Block Printmaking",
+  "genEdReq" : "Aesthetic Awareness",
+  "isWriting" : false,
+  "isDEI" : false,
+  "isPerformance" : false,
+  "isLanguage" : false
+},
+{
+  "name" : "ART226 Therapeutic Writing",
+  "genEdReq" : "Literary Perspectives",
+  "isWriting" : false,
+  "isDEI" : false,
+  "isPerformance" : false,
+  "isLanguage" : false
+},
+{
+  "name":"ART229 Specific Populations: Arts & Expressive Therapy",
+  "genEdReq" : "Individual and Society",
+  "isWriting" : "false",
+  "isDEI" : false,
+  "isPerformance" : false,
+  "isLanguage" : false
+},
+{
+  "name":"ART266 Writing in the Arts Seminar",
+  "genEdReq" : "None",
+  "isWriting" : true,
+  "isDEI" : false,
+  "isPerformance" : false,
+  "isLanguage" : false
+},
+  {
+    "name":"ART303 Theory&Research in Visual Design",
+    "genEdReq" : "None",
+    "isWriting" : true,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  },
+  {
+    "name":"ART312 Drama Therapy & Psychodrama",
+    "genEdReq" : "Individual Society",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  },
+  {
+    "name":"ART317 History of Photography",
+    "genEdReq" : "None",
+    "isWriting" : true,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  },
+  {
+    "name":"ART323 Media & Metaphor: Nature",
+    "genEdReq" : "Aesthetic Awareness",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  },
+  {
+    "name":"ART331 Arts & Social Action",
+    "genEdReq" : "Individual and Society",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  },
+  {
+    "name":"ART404 Imagination & Creativity",
+    "genEdReq" : "Aesthetic Awareness",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  },
+  {
+    "name":"BIO101 Human Biology",
+    "genEdReq" : "Science and Technology",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  },
+  {
+    "name":"BIO102 Principles of Biology I & Lab",
+    "genEdReq" : "Science and Technology",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  },
+  {
+    "name":"BIO103 Principles of Biology & Lab",
+    "genEdReq" : "Science and Technology",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  },
+  {
+    "name":"BIO115 Biosphere & Lab",
+    "genEdReq" : "Science and Technology",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  },
+  {
+    "name":"BIO130 Principles of Ecology & Lab",
+    "genEdReq" : "Science and Technology",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  },
+  {
+    "name":"BIO205 Plant Biology",
+    "genEdReq" : "Science and Technology",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  },
+  {
+    "name":"BIO226 Marine Biology",
+    "genEdReq" : "Science and Technology",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" :false ,
+    "isLanguage" : false
+  },
+  {
+    "name":"BIO240 Science & Society",
+    "genEdReq" : "Science and Technology",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  },
+  {
+    "name":"BIO242 World Disease",
+    "genEdReq" : "Global Issues",
+    "isWriting" : false,
+    "isDEI" : true,
+    "isPerformance" : false,
+    "isLanguage" : false
+  },
+  {
+    "name":"BUS320 Organizational Behavior",
+    "genEdReq" : "Individual and Society",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  },
+  {
+    "name":"BUS365 Bus, the Environment & Sustainability",
+    "genEdReq" : "Global Issues",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  },
+  {
+    "name":"BUS370 Business Analysis and Research",
+    "genEdReq" : "None",
+    "isWriting" : true,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  },
+  {
+    "name":"BUS450 Dynamics of Leadership",
+    "genEdReq" : "Individual and Society",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  },
+  {
+    "name":"CHE230 Forensic Science",
+    "genEdReq" : "Science and Technology",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  },
+  {
+    "name":"CHI101 Elementary Chinese I",
+    "genEdReq" : "World Cultures",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : true
+  },{
+"name":"CHI102 Elementary Chinese II",
+    "genEdReq" : "World Cultures",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : true
+  },
+  {
+    "name":"CJ100 Intro to Criminal Justice",
+    "genEdReq" : "Individual and Society",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  },
+  {
+    "name":"CJ200 Criminology",
+    "genEdReq" : "Individual and Society",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  },
+  {
+    "name":"CJ302 Research Methods",
+    "genEdReq" : "None",
+    "isWriting" : true,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  },
+  {
+    "name":"CJ354 International Justice",
+    "genEdReq" : "Global Issues",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  },
+  {
+    "name":"CJ355 Race & Justice",
+    "genEdReq" : "Values amd Ethical Reasoning",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  },
+  {
+    "name":"CMM100 Media Aesthetics",
+    "genEdReq" : "Aesthetic Awareness",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  },
+  {
+    "name":"CMM204 Promotional Writing",
+    "genEdReq" : "None",
+    "isWriting" : true,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  },
+  {
+    "name":"CMM207 Writing for Media",
+    "genEdReq" : "None",
+    "isWriting" : true,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  },
+  {
+    "name":"CMM211 Introduction to Journalism",
+    "genEdReq" : "None",
+    "isWriting" : true,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  },
+  {
+    "name":"CMM212 The Global Ear: Intro to Recording, Interviewing & Podcasting",
+    "genEdReq" : "World Cultures",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" :false ,
+    "isLanguage" : false
+  },
+  {
+    "name":"CMM310 Children's Television",
+    "genEdReq" : "Individual and Society",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  },
+  {
+    "name":"CMM315 Global Communication",
+    "genEdReq" : "Global Issues",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  },
+  {
+    "name":"CMM380 Media Ethics",
+    "genEdReq" : "Values and Ethical Reasoning",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  },
+  {
+    "name":"CSC101 Introduction to Computer Science",
+    "genEdReq" : "Science and Technology",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  },
+  {
+    "name":"CSC160 Introductions to Programming",
+    "genEdReq" : "Quantitive Reasoning",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  },
+  {
+    "name":"CSC230 Cyber-Threats & Security",
+    "genEdReq" : "Global Issues",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  },
+  {
+    "name":"DAN100 Introduction to Dance",
+    "genEdReq" : "Aesthetic Awareness",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  },
+  {
+    "name":"DAN103 Modern Dance Techniques Dance Compositions (Choreography)",
+    "genEdReq" : "Aesthetic Awareness",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" :true ,
+    "isLanguage" : false
+  },
+  {
+    "name":"DAN105 Repertory Dance Ensemble",
+    "genEdReq" : "Aesthetic Awareness",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" :true ,
+    "isLanguage" : false
+  },
+  {
+    "name":"DAN107 Tap Dance: Practice, Performance and Survey",
+    "genEdReq" : "Aesthetic Awareness",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  },
+  {
+    "name":"DAN120 Ballet Techniques I",
+    "genEdReq" : "Aesthetic Awareness",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : true,
+    "isLanguage" : false
+  },
+  {
+    "name":"DAN211 Modern & Contemporary Dance Aesthetics",
+    "genEdReq" : "Aesthetic Awareness",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  },
+  {
+    "name":"DAN214 Dance Improvisation",
+    "genEdReq" : "Aesthetic Awareness",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  },
+  {
+    "name":"DAN225 History of Dance",
+    "genEdReq" : "Aesthetic Awareness",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  },
+  {
+    "name":"DAN240 World Dance Cultures",
+    "genEdReq" : "World Cultures",
+    "isWriting" : "false",
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  },
+  {
+    "name":"DAN325 Dance in Society",
+    "genEdReq" : "Individual and Society",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  },
+  {
+    "name":"DM255 Writing for the Screen",
+    "genEdReq" : "None",
+    "isWriting" : true,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  },
+  {
+    "name":"DM338 Feature Writing",
+    "genEdReq" : "Literary Perspectives",
+    "isWriting" : true,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  },
+  {
+    "name":"DM381 Digital Media Law & Ethics",
+    "genEdReq" : "Values and Ethical Reasoning",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  },
+  {
+    "name":"DRA100 Introduction to Theater",
+    "genEdReq" : "Aesthetic Awareness",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  },
+  {
+    "name":"DRA102 Improvisational Comedy",
+    "genEdReq" : "Aesthetic Awareness",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  },
+  {
+    "name":"DRA105 Theatre Performance",
+    "genEdReq" : "Aesthetic Awareness",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  },
+  {
+    "name":"DRA200 Acting Techniques I",
+    "genEdReq" : "Aesthetic Awareness",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  },
+  {"name":"DRA220 Introduction to Theater Production",
+  "genEdReq" : "Aesthetic Awareness",
+  "isWriting" : false,
+  "isDEI" : false,
+  "isPerformance" : false,
+  "isLanguage" : false
+},
+  {
+    "name":"ECN201 Macroeconomics",
+    "genEdReq" : "Global Issues",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  },
+  {
+    "name":"ECN202 Microeconomics",
+    "genEdReq" : "Global Issues",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  },
+  {
+    "name":"ED125 Approaches to Secondary Education",
+    "genEdReq" : "None",
+    "isWriting" : false,
+    "isDEI" : true,
+    "isPerformance" :false ,
+    "isLanguage" : false
+  },
+  {
+    "name":"ED222 Culturally Responsive Pedagogy",
+    "genEdReq" : "None",
+    "isWriting" : false,
+    "isDEI" : true,
+    "isPerformance" :false ,
+    "isLanguage" : false
+  },
+  {
+    "name":"ED240 Literacy in Content Areas",
+    "genEdReq" : "None",
+    "isWriting" : false,
+    "isDEI" : true,
+    "isPerformance" : false,
+    "isLanguage" : false
+  },
+  {
+    "name":"ED290 Teacher and Student Identities in the American Classroom",
+    "genEdReq" : "None",
+    "isWriting" : false,
+    "isDEI" : true,
+    "isPerformance" : false,
+    "isLanguage" : false
+  },
+  {
+    "name":"ED320 Classroom Management: Building Classroom Community & Maximizing Student Engagement",
+    "genEdReq" : "None",
+    "isWriting" : false,
+    "isDEI" : true,
+    "isPerformance" : false,
+    "isLanguage" : false
+  },
+  {
+    "name":"EGR100 Intro to Engineering Design",
+    "genEdReq" : "Science and Technology",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  },
+  {
+    "name":"EGR150 Designing, Marking and Building in the Digital World",
+    "genEdReq" : "Science and Technology",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  },
+  {
+    "name":"ENG314 Early World Literature",
+    "genEdReq" : "Literary Perspectives",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  },
+  {
+    "name":"ENG102 Introduction to Literary Studies",
+    "genEdReq" : "Literary Perspectives",
+    "isWriting" : true,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"ENG103 Speech",
+    "genEdReq" : "None",
+    "isWriting" : true,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"ENG108 Intro to Creative Writing",
+    "genEdReq" : "Aesthetic Awareness",
+    "isWriting" : true,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"ENG110 Intro to Professional Writing",
+    "genEdReq" : "None",
+    "isWriting" : true,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"ENG111 Crit Reading & Writing I",
+    "genEdReq" : "None",
+    "isWriting" : true,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"ENG112 Crit Reading & Writing II",
+    "genEdReq" : "None",
+    "isWriting" : true,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"ENG202 The Novel",
+    "genEdReq" : "Literary Perspectives",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"ENG203 Early American Literature",
+    "genEdReq" : "Literary Perspectives",
+    "isWriting" : false,
+    "isDEI" : true,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"ENG204 American Literature: Civil War to Present",
+    "genEdReq" : "Literary Perspectives",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"ENG207 Creative Non-Fiction I",
+    "genEdReq" : "Aesthetic Awareness",
+    "isWriting" : true,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"ENG208 Writing Poetry I",
+    "genEdReq" : "Aesthetic Awareness",
+    "isWriting" : true,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"ENG209 Writing Short Fiction I",
+    "genEdReq" : "Aesthetic Awareness",
+    "isWriting" : true,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"ENG212 Drama Survey",
+    "genEdReq" : "Literary Perspectives",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" :false ,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"ENG213 Early British Literature",
+    "genEdReq" : "Literary Perspectives",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"ENG214 British Literature: 18th Century to Present",
+    "genEdReq" : "Literary Perspectives",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"ENG216 Beat Generation",
+    "genEdReq" : "Literary Perspectives",
+    "isWriting" : true,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"ENG217 History & Structure of the English Language",
+    "genEdReq" : "Individual and Society",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"ENG218 Argument-basEDWriting",
+    "genEdReq" : "None",
+    "isWriting" : true,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"ENG220 American Short Story Cycles",
+    "genEdReq" : "Litterary Perspectives",
+    "isWriting" : true,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"ENG221 BannEDBooks",
+    "genEdReq" : "Individual and Society",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"ENG222 Modern Irish History & Literature",
+    "genEdReq" : "World Cultures",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"ENG223 Bible as Literature",
+    "genEdReq" : "Values and Ethical Reasoning",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"ENG224 Love & Protest in American Literature",
+    "genEdReq" : "Literary Perspectives",
+    "isWriting" : false,
+    "isDEI" : true,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"ENG225 Literary Criticism & Interpretation",
+    "genEdReq" : "None",
+    "isWriting" : true,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"ENG226 Early American History & Literature",
+    "genEdReq" : "World Cultures",
+    "isWriting" : true,
+    "isDEI" : true,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"ENG227 African-American Literature",
+    "genEdReq" : "Literature Perspectives",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"ENG228 Writing the Novel I",
+    "genEdReq" : "Aesthetic Awareness",
+    "isWriting" : true,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"ENG229 Playwriting & Screenwriting I",
+    "genEdReq" : "Aesthetic Awareness",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"ENG230 Rebels & Misfits",
+    "genEdReq" : "Literary Perspectives",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"ENG231 Cliffhangers",
+    "genEdReq" : "Literary Perspectives",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"ENG232 Flash Fiction",
+    "genEdReq" : "Aesthetic Awareness",
+    "isWriting" : true,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"ENG233 Other Worlds: Fantasy Literature",
+    "genEdReq" : "Literary Perspectives",
+    "isWriting" : true,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"ENG234 Young Adult Fiction Writing Workshop",
+    "genEdReq" : "Literary Perspectives",
+    "isWriting" : true,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"ENG235 Twentieth Century Fiction",
+    "genEdReq" : "Literary Perspectives",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"ENG240 Boston in Literature & Film",
+    "genEdReq" : "Literary Perspectives",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"ENG245 Cartoonists & Satirists",
+    "genEdReq" : "Literary Perspectives",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"ENG260 Gothic Literature",
+    "genEdReq" : "Literary Perspectives",
+    "isWriting" : true,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"ENG305 Writing for Inquiry",
+    "genEdReq" : "None",
+    "isWriting" : true,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"ENG307 Creative Non-Fiction II",
+    "genEdReq" : "None",
+    "isWriting" : true,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"ENG309 Writing Short Fiction II",
+    "genEdReq" : "None",
+    "isWriting" : true,
+    "isDEI" : false,
+    "isPerformance" :false ,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"ENG310 Modern American Poetry",
+    "genEdReq" : "Literary Perspectives",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"ENG312 Literature for Children",
+    "genEdReq" : "Literary Perspectives",
+    "isWriting" : true,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"ENG313 World Literature",
+    "genEdReq" : "None",
+    "isWriting" : true,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"ENG314 Early World Literature",
+    "genEdReq" : "None",
+    "isWriting" : true,
+    "isDEI" : true,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"ENG315 Women Writers",
+    "genEdReq" : "Literary Perspectives",
+    "isWriting" : true,
+    "isDEI" : true,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"ENG316 World Literature: 18th Century to Present",
+    "genEdReq" : "Literary Perspectives",
+    "isWriting" : true,
+    "isDEI" : true,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"ENG321 Literary Triumvirates",
+    "genEdReq" : "Literary Perspectives",
+    "isWriting" : true,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"ENG328 Writing the Novel I",
+    "genEdReq" : "None",
+    "isWriting" : true,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"ENG336 Nature Writing",
+    "genEdReq" : "Literary Perspectives",
+    "isWriting" : true,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"ENG337 American Indian Experience: An Intro to the Literature",
+    "genEdReq" : "Literary Perspectives",
+    "isWriting" : true,
+    "isDEI" : true,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"ENG361 Victorian Secrets: Fear & Hypocrisy in Victorian Literature",
+    "genEdReq" : "Literary Perspectives",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"ENG365 Shakespeare",
+    "genEdReq" : "Literary Perspectives",
+    "isWriting" : true,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"ENG367 Eastern Literature & Haiku",
+    "genEdReq" : "Literary Perspectives",
+    "isWriting" : true,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"ENV122 Geology & Lab",
+    "genEdReq" : "Science and Technology",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"ENV130 Environmental Science I",
+    "genEdReq" : "Science and Technology",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"ENV131 Environmental Science II & Lab",
+    "genEdReq" : "Science and Technology",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"ENV150 Environmental Issues",
+    "genEdReq" : "Science and Technology",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"ENV215 Oceanography & Lab",
+    "genEdReq" : "Science and Technology",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"ENV216 Natural Disasters & Catastrophes",
+    "genEdReq" : "Global Issues",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"ENV220 Environmental Science",
+    "genEdReq" : "Science and Technology",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"ENV312 Environmental Health",
+    "genEdReq" : "Global Issues",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"FR101 Elementary French I",
+    "genEdReq" : "World Cultures",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : true
+  } ,
+  {
+    "name":"FR202 Intermediate French II",
+    "genEdReq" : "World Cultures",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : true
+  } ,{
+"name":"FR202 Intermediate French II",
+    "genEdReq" : "World Cultures",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : true
+  } ,
+  {
+    "name":"HMS387 Costa Rican Culture & Community Service Project",
+    "genEdReq" : "World Cultures",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"HST101 Western Civilization I",
+    "genEdReq" : "World Cultures",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"HST102 Western Civilization II",
+    "genEdReq" : "World Cultures",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"HST110 World History I",
+    "genEdReq" : "World Cultures",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"HST111 World History II",
+    "genEdReq" : "World Cultures",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"HST217 Immigrant and Refugees in World and US History",
+    "genEdReq" : "Global Issues",
+    "isWriting" : false,
+    "isDEI" : true,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"HST219 The Power of Black Music in America",
+    "genEdReq" : "Individual and Society",
+    "isWriting" : false,
+    "isDEI" : true,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"HST220 World History: African History",
+    "genEdReq" : "World Cultures",
+    "isWriting" : false,
+    "isDEI" : true,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"HST222 Modern Irish History & Literature",
+    "genEdReq" : "World Cultures",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"HST225 Salem Witch Trials",
+    "genEdReq" : "Values and Ethical Reasoning",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"HST226 Early American History & Literature",
+    "genEdReq" : "World Cultures",
+    "isWriting" : true,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"HST227 Boston History",
+    "genEdReq" : "World Cultures",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"HST229 The American West",
+    "genEdReq" : "World Cultures",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"HST230 African-American History",
+    "genEdReq" : "World Cultures",
+    "isWriting" : false,
+    "isDEI" : true,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"HST232 Modern European History",
+    "genEdReq" : "World Cultures",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"HST245 History of Modern China",
+    "genEdReq" : "World Cultures",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"HST260 Modern Latin American History & Culture",
+    "genEdReq" : "World Cultures",
+    "isWriting" : false,
+    "isDEI" : true,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"HST280 Middle Eastern History",
+    "genEdReq" : "World Cultures",
+    "isWriting" : false,
+    "isDEI" : true,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"HST301 Communism, Fascism & Democracy",
+    "genEdReq" : "Global Issues",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"HST302 Russia: From the Revolution to the Post- Soviet Era",
+    "genEdReq" : "World Cultures",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"HST310 Economies & Peoples",
+    "genEdReq" : "Global Issues",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"HST317 Civil Rights Movement",
+    "genEdReq" : "Individual and Society",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"HST330 History of Sexuality in the U.S.",
+    "genEdReq" : "Individual and Society",
+    "isWriting" : true,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"HST340 Women in American History & Culture",
+    "genEdReq" : "Individual and Society",
+    "isWriting" : true,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"HST350 The Automobile in American Society",
+    "genEdReq" : "Individual and Society",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"HTM320 Cultural History of Food",
+    "genEdReq" : "World Cultures",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"HTM374 Hospitality Organizational Behavior",
+    "genEdReq" : "None",
+    "isWriting" : true,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"ID340 Sustainability and Design",
+    "genEdReq" : "None",
+    "isWriting" : true,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"ID350 Design Theory and Research Seminar",
+    "genEdReq" : "None",
+    "isWriting" : true,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"IST100 Intro to Global Studies",
+    "genEdReq" : "Global Issues",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"IST112 Intro to Peace Studies",
+    "genEdReq" : "Global Issues",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"ITL101 Elementary Italian I",
+    "genEdReq" : "World Cultures",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : true
+  } ,
+  {
+    "name":"ITL201/202 Intermediate Italian I/II",
+    "genEdReq" : "World Cultures",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : true
+  } ,
+  {
+    "name":"JPN101/102 Elementary Japanese I/II",
+    "genEdReq" : "World Cultures",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : true
+  } ,
+  {
+    "name":"LST121 Introduction to Gender Studies",
+    "genEdReq" : "Individual and Society",
+    "isWriting" : false,
+    "isDEI" : true,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"LST203 Interpreting Built Environments",
+    "genEdReq" : "Aesthetic Awareness",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"LST210 Gender & Science",
+    "genEdReq" : "Individual and Society",
+    "isWriting" : true,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"LST212 Conflict Resolution",
+    "genEdReq" : "Individual and Society",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"LST215 Human Rights in Society",
+    "genEdReq" : "Values and Ethical Reasoning",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"LST255 Beauty, Infinity & Knowledge",
+    "genEdReq" : "Aesthestic Awareness",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"LST302 Methods of Inquiry in the Humanities",
+    "genEdReq" : "None",
+    "isWriting" : true,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"LST312 Discourses of Masculinity",
+    "genEdReq" : "Individual and Society",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"LST316 Intercultural Communications",
+    "genEdReq" : "World Cultures",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"LST320 Feminist Theory",
+    "genEdReq" : "Values and Ethical Reasoning",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"LST325 World Geography",
+    "genEdReq" : "Global Issues",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"MTH116 Mathematical Problem Solving",
+    "genEdReq" : "Quantitive Reasoning",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"MTH126 AppliEDStats",
+    "genEdReq" : "Quantitive Reasoning",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"MTH129 Analysis of Function",
+    "genEdReq" : "Quantitive Reasoning",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"MTH134 Calculus I",
+    "genEdReq" : "Quantitive Reasoning",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"MTH137 Calculus II",
+    "genEdReq" : "Quantitive Reasoning",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"MTH205 Math & Music",
+    "genEdReq" : "Quantitive Reasoning",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"MTH210 Math Reasoning",
+    "genEdReq" : "Quantitive Reasoning",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"MTH238 Linear Algebra",
+    "genEdReq" : "Quantitive Reasoning",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"MUS109 Percussion Ensemble",
+    "genEdReq" : "Aesthetic Awareness",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"MUS110 Fundamentals of Music",
+    "genEdReq" : "Aesthetic Awareness",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"MUS111 The History of Music",
+    "genEdReq" : "Aesthetic Awareness",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"MUS113 Jazz Band",
+    "genEdReq" : "Aesthetic Awareness",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : true,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"MUS114 Chamber Ensemble",
+    "genEdReq" : "Aesthetic Awareness",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : true,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"MUS115 Modern Band Project",
+    "genEdReq" : "Aesthetic Awareness",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : true,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"MUS116 Pep Band",
+    "genEdReq" : "Aesthetic Awareness",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : true,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"MUS216 Songwriting",
+    "genEdReq" : "Aesthetic Awareness",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"MUS219 The Power of Black Music in America",
+    "genEdReq" : "Values and Ethical Reasoning",
+    "isWriting" : false,
+    "isDEI" : true,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"MUS230 Jazz Styles",
+    "genEdReq" : "Aesthetic Awareness",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"MUS250 Ideologies of Music Art & Literature",
+    "genEdReq" : "Values and Ethical Reasoning",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"MUS260 Piano Styles",
+    "genEdReq" : "Aesthetic Awareness",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"NU212 Global Perspectives of Maternal- Child Health",
+    "genEdReq" : "Global Issues",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"NU305 RN Role Transition",
+    "genEdReq" : "None",
+    "isWriting" : true,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"NU306 Nursing Research",
+    "genEdReq" : "None",
+    "isWriting" : true,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"PA100 Introduction to Performing Arts",
+    "genEdReq" : "Aesthetic Awareness",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"PA101 Performance Review",
+    "genEdReq" : "Aesthetic Awareness",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"PA200 Aesthetics in the Performing Arts",
+    "genEdReq" : "Aesthetic Awareness",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"PE208 Personal and Community Health",
+    "genEdReq" : "None",
+    "isWriting" : false,
+    "isDEI" : true,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"PE210 Nutrition",
+    "genEdReq" : "Science and Technology",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"PE375 Exercise for Special Populations",
+    "genEdReq" : "None",
+    "isWriting" : false,
+    "isDEI" : true,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"PHL100 Introduction to Philosophy",
+    "genEdReq" : "Values and Ethical Reasoing",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"PHL104 Ethics",
+    "genEdReq" : "Values and Ethical Reasoing",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"PHL217 Ancient & Medieval Philosophy",
+    "genEdReq" : "Values and Ethical Reasoing",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"PHL220 Ideas, Culture, & Social Thought",
+    "genEdReq" : "Individual and Society",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"PHL230 Philosophy & the Arts",
+    "genEdReq" : "Aesthetic Awareness",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"PHL240 Contemporary Philosophy",
+    "genEdReq" : "Values and Ethical Reasoning",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"PHL245 Modern Philosophy",
+    "genEdReq" : "Values and Ethical Reasoning",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"PHL310 Bioethics",
+    "genEdReq" : "Values and Ethical Reasoning",
+    "isWriting" : true,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"PHL332 Studies in Philosophy of Religion",
+    "genEdReq" : "Values and Ethical Reasoning",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"PHT116 Introduction to Photographic Methods",
+    "genEdReq" : "Aesthetic Awareness",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"PHY107 Physics I & Lab",
+    "genEdReq" : "Science and Technology",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"PHY108 Physics II & Lab",
+    "genEdReq" : "Science and Technology",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"PHY116 Nature of the Universe & Lab",
+    "genEdReq" : "Science and Technology",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"POL110 World Politics",
+    "genEdReq" : "Global Issues",
+    "isWriting" : false,
+    "isDEI" : true,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"POL113 American Government & Politics",
+    "genEdReq" : "Individual and Society",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"POL215 The New Europe",
+    "genEdReq" : "Global Issues",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"POL216 International Conflicts",
+    "genEdReq" : "Global Issues",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"POL230 Political and Social Changes in Developing Countries",
+    "genEdReq" : "None",
+    "isWriting" : false,
+    "isDEI" : true,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"POL240 American Foreign Policy",
+    "genEdReq" : "Global Issues",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"POL250 Political Theory",
+    "genEdReq" : "Values and Ethical Reasoning",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"POL260 Identity Politics",
+    "genEdReq" : "Individual and Society",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"POL271 AdvancEDResearch Design in Political Science",
+    "genEdReq" : "None",
+    "isWriting" : true,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"POL280 Global Political Economy",
+    "genEdReq" : "Global Issues",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"POL310 Gender & Politics",
+    "genEdReq" : "Individual and Society",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"POL312 Great Power Politics",
+    "genEdReq" : "Global Issues",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"POL315 American Political Thought",
+    "genEdReq" : "Values and Ethical Reasoing",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"POL320 Comparative Political Models",
+    "genEdReq" : "Global Issues",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"POL382 Environmental Law & Politics",
+    "genEdReq" : "Global Issue",
+    "isWriting" : true,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"POL430 Human Rights",
+    "genEdReq" : "Values and Ethical Reasoning",
+    "isWriting" : false,
+    "isDEI" : true,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"PSY100 General Psychology",
+    "genEdReq" : "Individual and Society",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"PSY110 Lifespan Development",
+    "genEdReq" : "Individual and Society",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"PSY240 Research Methods",
+    "genEdReq" : "None",
+    "isWriting" : true,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"PSY304 Psychology of Gender",
+    "genEdReq" : "Individual and Society",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"PSY305 Social Psychology",
+    "genEdReq" : "Individual and Society",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"PSY307 Cultural Psychology",
+    "genEdReq" : "World Cultures",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"PSY360 Psychology of Spirituality",
+    "genEdReq" : "Values and Ethical Reasoning",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"REL104 World Religions repeated, must be taken to fulfill the requirement.",
+    "genEdReq" : "World Cultures",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"REL245 Eastern Religions",
+    "genEdReq" : "World Cultures",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"REL251 Religion in American Life",
+    "genEdReq" : "Values and Ethical Reasoning",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"REL252 Religion & Politics in the Contemporary World",
+    "genEdReq" : "Global Issues",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"REL255 Western Religious Thought",
+    "genEdReq" : "World Cultures",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"REL270 Introduction to Islam",
+    "genEdReq" : "World Cultures",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"SM 218 Philosophy & Sports",
+    "genEdReq" : "Values and Ethical Reasoning",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"SM 306 Psychology of Sport",
+    "genEdReq" : "Individual and Society",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"SOC101 Introduction to Sociology",
+    "genEdReq" : "Individual and Society",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"SOC217 Work & Society",
+    "genEdReq" : "Individual and Society",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" :false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"SOC300 Community & Urban Sociology",
+    "genEdReq" : "Individual and Society",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"SOC302 Social Problems",
+    "genEdReq" : "Individual and Society",
+    "isWriting" : true,
+    "isDEI" : true,
+    "isPerformance" :false ,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"SOC320 Race & Ethnic Diversity in American Society",
+    "genEdReq" : "Individual and Society",
+    "isWriting" : false,
+    "isDEI" : true,
+    "isPerformance" : false,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"SP331 Cinema of Latin America",
+    "genEdReq" : "Literary Perspectives",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" :false ,
+    "isLanguage" : false
+  } ,
+  {
+    "name":"SP101 Elementary Spanish I",
+    "genEdReq" : "World Cultures",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : true
+  } ,
+{
+"name":"SP102 Elementary Spanish II",
+    "genEdReq" : "World Cultures",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : true
+  } ,
+  {
+    "name":"SP201 Intermediate Spanish I",
+    "genEdReq" : "World Cultures",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : true
+  } ,
+{
+    "name":"SP202 Intermediate Spanish II",
+    "genEdReq" : "World Cultures",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : true
+  } ,
+  {
+    "name":"SP301 AdvancEDSpanish I",
+    "genEdReq" : "World Cultures",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : true
+  } ,
+{
+    "name":"SP302 AdvancEDSpanish II",
+    "genEdReq" : "World Cultures",
+    "isWriting" : false,
+    "isDEI" : false,
+    "isPerformance" : false,
+    "isLanguage" : true
+  } ,
+  {
+  "name":"SST201 Global Risk: Assessing & Managing Transnational Threats",
+  "genEdReq" : "Global Issues",
+  "isWriting" : false,
+  "isDEI" : false,
+  "isPerformance" : false,
+  "isLanguage" : false
+    }
+]}]}

@@ -1,0 +1,48 @@
+*{
+    margin: 0 auto;
+}
+body{
+    text-align:center
+}
+#logo{
+  background-image: radial-gradient(ellipse at left, #013968, #00325b 75%);
+  text-align:left;
+  float:left;
+}
+#filter{
+    background-image: radial-gradient(ellipse at left, #013968, #00325b 75%);
+    padding-bottom: 1em;
+    margin-bottom:10px;
+    color:white;
+
+}
+#innerfilter{
+  text-align:left;
+  display: inline-block;
+  border: 2px solid white;
+  margin: 0 auto;
+  margin-right:20%;
+  margin-top: 3em;
+  padding-left: 3em;
+  padding-right: 3em;
+  padding-bottom: 3em;
+  background: rgb(25,48,68);
+background: radial-gradient(circle, rgba(25,48,68,1) 0%, rgba(2,48,87,1) 100%);
+}
+#applybutton{
+width: 400%;
+}
+select{
+    margin:10px 0
+}
+#filterbutton{
+    width:25%
+}
+body{
+    background-color: #015f45;
+    color: white;
+}
+div#courseinfo{
+    margin-top: 3%;
+    margin-bottom:2%;
+}

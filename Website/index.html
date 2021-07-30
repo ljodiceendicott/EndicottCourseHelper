@@ -1,0 +1,264 @@
+<html>
+    <!--
+        Created By Luke Jodice Summer 2021
+    -->
+    <head>
+
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+        <link rel="stylesheet" href="styles/main.css">
+    </head>
+
+    <body>
+        <header>
+          <div id = logo>
+            Endicott College Course Requirement Help Page
+          </div>
+        </header>
+       <div id=filter>
+         <div id=innerfilter>
+        <div id="Dropboxmenus">
+            <br>Semester:
+        <select id="dropdownSem" name="dropdownSem" onchange="SemesterChange()" d>
+            <option value="All">All</option>
+            <option value="genEd" disabled>General Education Courses Only</option>
+            <option value="SP21" disabled>SP21</option>
+            <option value="FA21"disabled>FA21</option>
+
+               </select>
+            <br>
+            Gen Ed Requirement:
+        <select name="myDropdownList" id="GenEdReq">
+            <option value="All">All</option>
+            <option value="None">None</option>
+            <option value="Aesthetic Awareness and Creative Expression">Aesthetic Awareness and Creative Expression</option>
+            <option value="Global Issues">Global Issues</option>
+            <option value="Individual and Society">Individual and Society</option>
+            <option value="Literary Perspectives">Literary Perspectives</option>
+            <option value="Quantitative Reasoning">Quantitative Reasoning</option>
+            <option value="Science and Technology">Science and Technology</option>
+            <option value="Values and Ethical Reasoning">Values and Ethical Reasoning</option>
+            <option value="World Cultures">World Cultures</option>
+        </select>
+        
+        </div>
+        <input type="checkbox" id = "ISWRITING" name = "iswriting" value="writing">
+        <label for="ISWRITING">Is a Writing Requirement</label>
+        <br>
+        <input type="checkbox" id = "ISDEI" name = "isdei" value="dei">
+        <label for="ISDEI">Is a Diversity,Equity, Inclusion Requirement</label>
+        <br>
+        <input type="checkbox" id = "ISPERFORM" name = "isPERFORM" value="perform">
+        <label for="ISPERFORM">Is a Performance Requirement</label>
+        <br>
+        <input type="checkbox" id = "ISLANG" name = "islang" value="language">
+        <label for="ISLANG">Is a Language Requirement</label><br>
+        <br>
+        <div id =applybutton>
+        <button id="filterbutton" onclick="filterChange()">Apply Changes</button>
+    <br>
+    If there are any issues, Refresh the page<br>
+    also after any request for best results
+    </div>
+  </div>
+  </div>
+        <div id="courseinfo" style="height: 41em; overflow: auto;">
+
+            <div id="myData"></div>
+            <table id="myTable">
+                <tbody id="myTable">
+
+                </tbody>
+            </table>
+        <script>
+             fetch("data/GenEdFA2021.json")
+            //fetch("json_of_cat.json")
+                .then(response => response.json())
+                .then(data =>{
+                    console.log(data)
+                    var classes = data.sessions[0].classes;
+                    console.log(classes)
+                    var mainContain = document.getElementById("myData");
+                    var classarray = [];
+
+                    for(var i=0; i<data.sessions[0].classes.length; i++){
+                    var classSes= data.sessions[0].classes[i]
+                    console.log(classSes)
+                    //from course dump
+                   // var coursecode = classSes.course
+                   // var coursename = classSes.title1
+                   //const classobj = {title:coursename, coursecode:coursecode};
+                   //from GenEd file
+                    var coursename = classSes.name
+                    var genedReq =  classSes.genEdReq
+                    var iswrite = classSes.isWriting
+                    var isdei = classSes.isDEI
+                    var isperform = classSes.isPerformance
+                    var islang = classSes.isLanguage
+                    const classobj ={title:coursename, genED:genedReq,isWriting: iswrite, isDEI: isdei, isPerformance:isperform, isLanguage:islang}
+                    classarray.push(classobj);
+                    }
+                    console.log(classarray)
+                    window.classarray =classarray
+                    makeTable(classarray);
+
+                    const saveData = (classarray) =>{
+                        const jsonData = JSON.stringify(classarray)
+                        console.log(jsonData)
+                    }
+
+                })
+            function SemesterChange(){
+                //get what the newest one that is selected
+                var x = document.getElementById("dropdownSem").value
+                getdata(x);
+                console.log(x);
+                //put the data that corresponds to the selected value
+
+            }
+            function getdata(docname){
+                if(docname == "All"){
+                    //put all of the avaliable courses in the list
+                    //by default this will be FA21 courses for RN
+                }
+                else if(docname == "genEd"){
+                    //will show all of the GenEd courses only
+                }
+                else if(docname == "SP21"){
+                    //will not be shown but would be all the courses that took place in the Semster of Spring 2021
+                }
+                else if(docname == "FA21"){
+                    //show all courses for Semester of Fall 2021
+                }
+            }
+            function makeTable(Array){
+                if(Array.isEmpty){
+                    alert("Im sorry current filter has no results maybe try a more basic request")
+                    return;
+                }
+                clearTable()
+                var table = document.getElementById('myTable')
+                for(var i=0; i<Array.length; i++){
+                    var row = `
+                            <tr>
+                                <td> ${Array[i].title}</td>
+                            <tr>
+                              `
+                            table.innerHTML +=row
+                            }
+
+            }
+            function clearTable(){
+                var table= document.getElementById('mytable')
+                for(var i =0; i<document.getElementById("myTable").rows.length; i++){
+                    document.getElementById("myTable").deleteRow(i)
+                }
+            }
+            function filterChange(){
+                var dropdown = document.getElementById("GenEdReq")
+                var result = dropdown.options[dropdown.selectedIndex].value
+
+                var writingBox = document.getElementById("ISWRITING")
+                var iswriting = writingBox.checked
+
+                var isdei = document.getElementById("ISDEI").checked
+
+                var performanceBox = document.getElementById("ISPERFORM")
+                var isperform = performanceBox.checked
+
+                var languageBox = document.getElementById("ISLANG")
+                var islanguage = languageBox.checked
+
+               // if(result == prev){
+            //        return;
+           //     }
+             //  prev = result;
+                var filteredContent= [];
+                for(var i = 0; i< window.classarray.length; i++){
+                    if(result == window.classarray[i].genED){
+                    filteredContent.push(window.classarray[i]);
+                    }
+                   else if(result== "All"){
+                       filteredContent.push(window.classarray[i])
+                   }
+                }   
+
+                if(ISWRITING.checked){
+                    var tempfilt = [];
+                    for(var j =0; j<filteredContent.length; j++){
+                        console.log(filteredContent[j].title +" "+ filteredContent[j].isWriting)
+                        if(filteredContent[j].isWriting){
+                            console.log("YES")
+                            tempfilt.push(filteredContent[j])
+                        }
+                    }
+                    console.log(tempfilt.length)
+                filteredContent = tempfilt;
+                }
+                if(ISDEI.checked){
+                    var tempfilt2 = [];
+                   console.log("DEI Check")
+                    for(var j = 0; j<filteredContent.length; j++){
+                       if(filteredContent[j].isDEI){
+                            tempfilt2.push(filteredContent[j])
+                        }
+                    }
+                    filteredContent = tempfilt2
+                }
+                if(ISPERFORM.checked){
+                    var tempfilt3 = [];
+                    console.log("Perform Check")
+                    for(var k=0; k<filteredContent.length; k++){
+                        if(filteredContent[k].isPerformance){
+                            tempfilt3.push(filteredContent[k])
+                        }
+                    }
+                    filteredContent = tempfilt3
+                }
+                if(ISLANG.checked){
+                    var tempfilt4 = [];
+                    console.log("Language Check")
+                    for(var m = 0; m<filteredContent.length; m++){
+                        if(filteredContent[m].isLanguage){
+                            tempfilt4.push(filteredContent[m])
+                        }
+                    }
+                    filteredContent = tempfilt4
+                }
+                 makeTable(filteredContent)
+           
+            //initial Load
+           
+
+            /*
+            fetch("json_of_cat.json")
+                .then(function (response){
+                    return response.json();
+                })
+                .then(function (data){
+                    appendData(data);
+                })
+                .catch(function(err){
+                    console.log('error:'+ err);
+                });
+                function appendData(data){
+                    var mainContain = document.getElementById("myData");
+                    for(var i =0; i<data.length; i++){
+
+                    }
+                }*/
+               /* .then(response => response.json())
+                .then(data => {
+                    console.log(data.sessions[0].classes);
+                    var mainContain = document.getElementById("myData");
+                })
+                    for(var i=0; i<data.sessions[0].classes.length; i++){
+                    var div= document.createElement("div");
+                    var course = data.sessions[0].classes[i];
+                    mainContain.appendChild(div);
+                    }
+                */
+                }
+        </script>
+    </body>
+</html>
